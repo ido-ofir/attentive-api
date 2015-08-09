@@ -1,0 +1,28 @@
+{
+  "name": "attentive-api",
+  "version": "1.0.0",
+  "description": "an attentive node express rest api",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ido-ofir/attentive-api.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "ido-ofir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ido-ofir/attentive-api/issues"
+  },
+  "homepage": "https://github.com/ido-ofir/attentive-api#readme"
+}
